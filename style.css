@@ -2,6 +2,9 @@ body {
     height: 400px;
     background-image: url("http://bytebooks.com.ar/images/pic1.png");
     background-size: cover;
-    background-repeat:no-repeat;
+    background-repeat:repeat-y;
     background-position: center center;
+  }
+  h1 {
+      color:aliceblue;
   }
