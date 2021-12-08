@@ -1,10 +1,13 @@
 body {
-    height: 400px;
+    /*height: 400px;
     background-image: url("http://bytebooks.com.ar/images/pic1.png");
     background-size: cover;
     background-repeat:repeat-y;
     background-position: center center;
+    height:665px;*/
+    background-image: url("http://govexec.com/media/background.jpg");
+    background-size: 100% auto;
   }
-  h1 {
-      color:aliceblue;
-  }
+  /*h1 h3 {
+      color:rgb(14, 16, 19);
+  }*/
